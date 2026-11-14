@@ -1,0 +1,10 @@
+{
+ "farm_efficiency_observed": 0.8722973089722521,
+ "farm_efficiency_pywake": 0.8534012892239261,
+ "wake_loss_observed_pct": 12.77026910277479,
+ "wake_loss_pywake_pct": 14.65987107760739,
+ "worst_sector_deg": 300.0,
+ "worst_sector_eff_observed": 0.6788024110922468,
+ "worst_sector_eff_pywake": 0.7271314860982379,
+ "sector_corr": 0.8488162169236547
+}

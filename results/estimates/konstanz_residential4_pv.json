@@ -1,0 +1,20 @@
+{
+ "asset": "konstanz_residential4_pv",
+ "created_utc": "2026-11-14T00:26:31+00:00",
+ "code_version": "169aeaa",
+ "inputs": {
+  "opsd_konstanz_pv_cumulative_kwh.csv": "1442e697a62a5f39d69c4dddc9f24ef6d8cc3fc6934b8e09a372960211d9ee46",
+  "era5_konstanz_1991_2025.csv.gz": "0e44e37a8311078f0371630e76f5940cb74ef02fd73d3f5742344b51ebd3e2bc"
+ },
+ "params": {
+  "tilt": 20.0,
+  "azimuth": 240.0,
+  "kwp": 9.708991819608206,
+  "period": "1991-2025"
+ },
+ "estimate": {
+  "p50_kwh_per_kwp": 1197.9984697568163,
+  "p90_1yr_ratio": 0.923129120605505,
+  "p90_10yr_ratio": 0.9353056324638401
+ }
+}

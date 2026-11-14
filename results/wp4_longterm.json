@@ -1,0 +1,24 @@
+{
+ "p50_gwh": 33.177940133473236,
+ "capacity_factor_p50": 0.30771087232334493,
+ "uncertainty": {
+  "interannual_variability_1yr": 0.06844037526024668,
+  "interannual_variability_10yr": 0.02164274697390187,
+  "model_calibration": 0.012505087154171587,
+  "measurement": 0.01,
+  "long_term_period": 0.013832727797370237
+ },
+ "sigma_1yr": 0.0716366284020469,
+ "sigma_10yr": 0.030267640470078024,
+ "p90_1yr_gwh": 30.131889940580322,
+ "p90_10yr_gwh": 31.890934391454532,
+ "lowest_year": 2010,
+ "lowest_year_gwh": 28.332453163691795,
+ "highest_year": 2008,
+ "highest_year_gwh": 37.57202144139978,
+ "trend_pct_per_year": -0.16827410165887502,
+ "wake_loss_longterm_pct": 10.03810009709738,
+ "year_2017_rank_of_35": 17,
+ "year_2017_vs_p50": 0.0009279052680568611,
+ "physical_vs_corrected_longterm": 0.006815199601248212
+}

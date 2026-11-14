@@ -1,0 +1,15 @@
+{
+ "records_flagged_by_rules": 6383,
+ "records_in_log_stops": 5751,
+ "recall_of_log_stops": 0.7110067814293166,
+ "precision_vs_log": 0.6406078646404512,
+ "operator_lost_energy_caught_share": 0.9634332890237532,
+ "operator_lost_mwh": 576.2923518403378,
+ "share_records_flagged": 0.020240360223236935,
+ "by_rule": {
+  "missing": 3796,
+  "stopped": 2296,
+  "derated": 1900,
+  "sensor_frozen": 0
+ }
+}
