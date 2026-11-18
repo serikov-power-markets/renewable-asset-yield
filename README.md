@@ -1,6 +1,6 @@
 # Wind and solar asset models: from reanalysis weather to expected volume
 
-[![tests](https://github.com/michaelserikov/renewable-asset-yield/actions/workflows/tests.yml/badge.svg)](https://github.com/michaelserikov/renewable-asset-yield/actions/workflows/tests.yml)
+[![tests](https://github.com/serikov-power-markets/renewable-asset-yield/actions/workflows/tests.yml/badge.svg)](https://github.com/serikov-power-markets/renewable-asset-yield/actions/workflows/tests.yml)
 
 Physics-based production models of a real onshore wind farm and of metered rooftop PV systems, driven by ERA5
 reanalysis and checked against measured production. The chain covers what a pricing or hedging desk needs from an
